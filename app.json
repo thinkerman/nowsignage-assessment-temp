@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "nowsinage",
-    "slug": "nowsinage",
+    "name": "NowSinage",
+    "slug": "NowSinage",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/nowsignage-icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/nowsignage-logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
