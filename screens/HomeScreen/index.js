@@ -9,7 +9,7 @@ import {
 import http from '../../utilities/http';
 import {Video} from 'expo-av';
 import styles from './style';
-
+// minor comment to be removed
 const HomeScreen = () => {
   const video = useRef(null);
   const [displayItem, setDisplayItem] = useState([]); // this stores the entire list
